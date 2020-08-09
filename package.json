@@ -1,8 +1,8 @@
 {
-  "name": "adonis-fullstack-app",
-  "version": "4.1.0",
+  "name": "arktaris",
+  "version": "1.2032.01",
   "adonis-version": "4.1.0",
-  "description": "The fullstack application boilerplate for Adonisjs",
+  "description": "Personal development environment",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
